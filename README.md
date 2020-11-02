@@ -1,2 +1,2 @@
 # collector
-Adding files to repo
+Displys the PowerVS instance data in .csv file format
